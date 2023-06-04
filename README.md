@@ -32,8 +32,7 @@ Before running the deployment script, you will need to have the following:
 - AWS CLI installed on your local machine
 
 - AWS credentials configured on your local machine
-- A Secret Manager in AWS with the RDS database credentials stored (username, password)
-- A S3 bucket to store the Terraform state file, and DynamoDB to use for state locking
+- A S3 bucket using aws console to store the Terraform state file, and DynamoDB to use for state locking
 
 ## terraform Commands used:
 
