@@ -1,4 +1,4 @@
-# Terraform Final Task ITI
+# 2-Tier APP via Terraform
 This repository contains the Terraform code to deploy small example of infrastructure on AWS. It includes creating a VPC with one public and one private subnets, launching EC2 instances in the public and private subnets, and creating S3 bucket , route table and internet Gateway .
 
 ## AWS Architecture
