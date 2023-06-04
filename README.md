@@ -4,7 +4,7 @@ This repository contains the Terraform code to deploy small example of infrastru
 ## AWS Architecture
 <img src="https://github.com/mobakr22/terraform-project/assets/129240702/d49fdbe7-2fdb-4fe2-93aa-89fa9726a65b" width="500" >
 
-### OVERVIWE about Terraform
+### OVERView about Terraform
  - Terraform is an open source “Infrastructure as Code” tool created by HashiCorp1. 
  - It is used to define and provision the complete infrastructure using an easy-to-learn declarative language2.
  - Terraform enables developers to use a high-level configuration language called HCL (HashiCorp Configuration Language) to describe the desired “end-state” cloud or on-premises infrastructure for running an application1.
