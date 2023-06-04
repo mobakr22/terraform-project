@@ -10,6 +10,16 @@ This repository contains the Terraform code to deploy small example of infrastru
  - Terraform enables developers to use a high-level configuration language called HCL (HashiCorp Configuration Language) to describe the desired “end-state” cloud or on-premises infrastructure for running an application1.
  -  It is an infrastructure provisioning tool where you can store your cloud infrastructure setup as codes2.
  -   You can use Terraform to safely and predictably provision and manage infrastructure in any cloud3.
+ 
+ ## This project uses Terraform to create the following AWS resources:
+
+- VPC
+- Internet Gateway
+- Route Table
+- Public EC2 instances
+- Private EC2 instances
+- S3 Bucket
+ 
 
 ## Prerequisites
 
@@ -39,5 +49,6 @@ Before running the deployment script, you will need to have the following:
 # <img src="https://github.com/mobakr22/terraform-project/assets/129240702/58acfdb6-7453-40d0-8929-2c72ce1f65a1" width=500>
 # <img src="https://github.com/mobakr22/terraform-project/assets/129240702/402498f3-d74a-45d9-bb83-b34e2d0a19c1" width=500>
 
+# Author
 
-
+- [linkedin](https://www.linkedin.com/in/%20mostafa-magdi22)
